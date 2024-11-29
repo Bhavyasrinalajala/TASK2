@@ -14,30 +14,33 @@ PROJECT NAME: WEATHER FORECAST APP
 
 OVERVIEW
 
-Objective:
+OBJECTIVE:
+
 To build a simple and responsive web application that provides real-time weather information for a given city using the OpenWeatherMap API.
 
-Features:
+FEATURES :
 
-Search for a City:
+SEARCH FOR A CITY:
 
 Users can input a city name to fetch its weather data.
 
-Weather Information:
+WEATHER INFORMATION :
 
 Displays temperature, weather description (e.g., clear sky, rain), and humidity.
 
-Responsive Design:
+RESPONISIVE DESIGN:
 
 Ensures the app works seamlessly on desktop and mobile devices.
 
-Error Handling:
+ERROR HANDLING:
+
 
 Provides user-friendly error messages for invalid inputs or failed API requests
 
-Technology Stack:
+TECHNOLOGY STACK :
 
-Frontend:
+
+FRONTEND :
 
 HTML: For structuring the user interface (input, button, and result area).
 
@@ -58,11 +61,11 @@ CSS:
 
 A clean and modern design using basic CSS for centering, spacing, and responsiveness.
 
-JavaScript:
+JAVASCRIPT:
 
 Handles user interaction, API requests, and DOM updates.
 
-How It Works:
+HOW IT WORKS:
 
 User enters a city name in the input field.
 The "Get Weather" button triggers a JavaScript function.
@@ -71,19 +74,22 @@ Weather details like temperature, description, and humidity are displayed dynami
 If the city is invalid, an error message is shown.
 Key Learning Objectives:
 
-API Integration:
+API INTERATION:
 
 How to use APIs to fetch and display data.
 
-Asynchronous JavaScript:
+
+ASYNCHRONOUS JAVASCRIPT:
 
 Handling fetch and working with promises/async-await.
 
-Dynamic DOM Manipulation:
+
+DYNAMIC DOM MANIPULATION :
 
 Updating the webpage in real-time based on user input.
 
-Error Handling:
+
+ERROR HANDLING
 
 Building a robust app with meaningful error messages.
 
