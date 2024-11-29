@@ -93,7 +93,6 @@ ERROR HANDLING
 
 Building a robust app with meaningful error messages.
 
-![Screenshot 2024-11-28 214357](https://github.com/user-attachments/assets/2da71499-bb84-46c4-8f47-e35a7a5fa302)
 
 
 
