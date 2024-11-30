@@ -12,11 +12,13 @@ OVERVIEW OF THE PROJECT
 
 PROJECT NAME: WEATHER FORECAST APP
 
+
 OVERVIEW
 
 OBJECTIVE:
 
 To build a simple and responsive web application that provides real-time weather information for a given city using the OpenWeatherMap API.
+
 
 FEATURES :
 
@@ -24,29 +26,35 @@ SEARCH FOR A CITY:
 
 Users can input a city name to fetch its weather data.
 
+
 WEATHER INFORMATION :
 
 Displays temperature, weather description (e.g., clear sky, rain), and humidity.
 
+
 RESPONISIVE DESIGN:
 
 Ensures the app works seamlessly on desktop and mobile devices.
+
 
 ERROR HANDLING:
 
 
 Provides user-friendly error messages for invalid inputs or failed API requests
 
+
 TECHNOLOGY STACK :
 
 
 FRONTEND :
+
 
 HTML: For structuring the user interface (input, button, and result area).
 
 CSS: For styling and making the app visually appealing.
 
 JavaScript: For dynamic content updates and API integration.
+
 
 API:
 
@@ -64,6 +72,7 @@ A clean and modern design using basic CSS for centering, spacing, and responsive
 JAVASCRIPT:
 
 Handles user interaction, API requests, and DOM updates.
+
 
 HOW IT WORKS:
 
@@ -93,6 +102,7 @@ ERROR HANDLING
 
 Building a robust app with meaningful error messages.
 
+![Screenshot 2024-11-29 212017](https://github.com/user-attachments/assets/5b3e8e50-5c54-472e-baa1-a9b8b0e40076)
 
 
 
